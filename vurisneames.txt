@@ -7,12 +7,15 @@ ncat
 tcpdump
 hping3
 aircrack-ng
+aircrack
 airmon-ng
+airmon
 ettercap
 arpspoof
 burpsuite
 burp
 john
+ripper
 john-the-ripper
 hydra
 medusa
@@ -49,12 +52,14 @@ wpscan
 smbclient
 evil-winrm
 evil
+winrm
 psexec
 cobalt strike
 powercat
 powershell
 Invoke-WebRequest
 Invoke-Expression
+Invoke
 netsh
 chisel
 remmina
@@ -76,6 +81,7 @@ webexploits
 sqlninja
 php-reverse-shell
 python-reverse-shell
+reverse
 msfvenom
 pyinstaller
 apktool
@@ -95,3 +101,4 @@ attack
 phish
 phishing
 exploit
+crack
